@@ -20,6 +20,7 @@ body{
     body{
         padding: 30px 30px 25px 30px;
         background-image: url(../img/batman.jpg);
+        background-position: left 55%;
         background-color: #0005;
         background-blend-mode: darken;
     }
