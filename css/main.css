@@ -98,7 +98,6 @@ main{
     .movie-title{
         font-size: 1.6rem;
         transform: translateY(-10px);
-
     }
     .movie-button{
         text-align: center;
@@ -109,5 +108,8 @@ main{
     }
     .social-container{
         display: none;
+    }
+    footer{
+        margin-bottom: 40px;
     }
 }
